@@ -1,0 +1,322 @@
+欠品
+けっぴん
+Falta de peça / item em falta
+
+部品が欠品しています。
+ぶひん が けっぴん しています。
+A peça está em falta。
+
+
+在庫
+ざいこ
+Estoque
+
+在庫を確認してください。
+ざいこ を かくにん してください。
+Verifique o estoque。
+
+
+補充
+ほじゅう
+Reposição / abastecimento
+
+部品を補充してください。
+ぶひん を ほじゅう してください。
+Reponha as peças。
+
+
+発注
+はっちゅう
+Pedido de compra / solicitar material
+
+部品を発注しました。
+ぶひん を はっちゅう しました。
+Fizemos o pedido das peças。
+
+
+納品
+のうひん
+Entrega de material
+
+部品が納品されました。
+ぶひん が のうひん されました。
+As peças foram entregues。
+
+
+納期
+のうき
+Prazo de entrega
+
+納期を確認します。
+のうき を かくにん します。
+Vou confirmar o prazo de entrega。
+
+
+不良
+ふりょう
+Defeito / falha
+
+不良が発生しました。
+ふりょう が はっせい しました。
+Ocorreu um defeito。
+
+
+不良品
+ふりょうひん
+Produto defeituoso
+
+不良品を分けてください。
+ふりょうひん を わけて ください。
+Separe os produtos defeituosos。
+
+
+良品
+りょうひん
+Produto aprovado / produto bom
+
+良品だけを流します。
+りょうひん だけを ながします。
+Somente os produtos aprovados seguem para a próxima etapa。
+
+
+異常
+いじょう
+Anormalidade
+
+異常を確認してください。
+いじょう を かくにん してください。
+Verifique a anormalidade。
+
+
+異物
+いぶつ
+Corpo estranho / contaminante
+
+製品に異物が入っています。
+せいひん に いぶつ が はいっています。
+Há um corpo estranho no produto。
+
+
+工程
+こうてい
+Processo / etapa de produção
+
+次の工程へ送ります。
+つぎ の こうてい へ おくります。
+Envio para a próxima etapa。
+
+
+次工程
+じこうてい
+Próxima etapa do processo
+
+次工程へ渡してください。
+じこうてい へ わたして ください。
+Passe para a próxima etapa。
+
+
+前工程
+ぜんこうてい
+Processo anterior
+
+前工程を確認します。
+ぜんこうてい を かくにん します。
+Verifico o processo anterior。
+
+
+組立
+くみたて
+Montagem
+
+組立作業をしています。
+くみたて さぎょう を しています。
+Estou realizando a montagem。
+
+
+組付け
+くみつけ
+Montagem / instalação de componente
+
+部品を組付けます。
+ぶひん を くみつけます。
+Instalo o componente.
+
+
+作業
+さぎょう
+Trabalho / operação
+
+作業を開始します。
+さぎょう を かいし します。
+Vou iniciar o trabalho。
+
+
+確認
+かくにん
+Verificação / confirmação
+
+部品を確認してください。
+ぶひん を かくにん してください。
+Verifique as peças。
+
+
+固定
+こてい
+Fixação
+
+部品をしっかり固定します。
+ぶひん を しっかり こてい します。
+Fixamos bem a peça。
+
+
+位置決め
+いちぎめ
+Posicionamento
+
+治具で位置決めします。
+じぐ で いちぎめ します。
+Posicionamos usando o jig。
+
+
+治具
+じぐ
+Jig / dispositivo de montagem
+
+治具に部品をセットします。
+じぐ に ぶひん を セットします。
+Coloco a peça no jig。
+
+
+ワーク
+ワーク
+Peça de trabalho / produto em processo
+
+ワークを治具にセットします。
+ワーク を じぐ に セットします。
+Coloco a peça de trabalho no jig。
+
+
+空気圧
+くうきあつ
+Pressão de ar
+
+空気圧を調整します。
+くうきあつ を ちょうせい します。
+Ajusto a pressão do ar。
+
+
+圧縮空気
+あっしゅくくうき
+Ar comprimido
+
+圧縮空気を使用します。
+あっしゅくくうき を しよう します。
+Usamos ar comprimido。
+
+
+漏れ
+もれ
+Vazamento
+
+空気漏れを確認します。
+くうきもれ を かくにん します。
+Verifico vazamento de ar。
+
+
+締付け
+しめつけ
+Aperto / fixação por parafuso
+
+ネジの締付けを確認します。
+ネジ の しめつけ を かくにん します。
+Verifico o aperto do parafuso。
+
+
+トルク
+トルク
+Torque
+
+締付けトルクを確認します。
+しめつけ トルク を かくにん します。
+Verifico o torque de aperto。
+
+
+測定
+そくてい
+Medição
+
+寸法を測定します。
+すんぽう を そくてい します。
+Meço as dimensões。
+
+
+測定器
+そくていき
+Instrumento de medição
+
+測定器を使用します。
+そくていき を しよう します。
+Uso o instrumento de medição。
+
+
+精度
+せいど
+Precisão
+
+高い精度が必要です。
+たかい せいど が ひつよう です。
+É necessária alta precisão。
+
+
+公差
+こうさ
+Tolerância
+
+公差を確認します。
+こうさ を かくにん します。
+Verifico a tolerância。
+
+
+仕様
+しよう
+Especificação
+
+仕様を確認してください。
+しよう を かくにん してください。
+Verifique a especificação。
+
+
+図面
+ずめん
+Desenho técnico
+
+図面を見ながら作業します。
+ずめん を みながら さぎょう します。
+Trabalho olhando o desenho técnico。
+
+
+検査
+けんさ
+Inspeção
+
+製品を検査します。
+せいひん を けんさ します。
+Inspeciono o produto。
+
+
+検査基準
+けんさきじゅん
+Critério de inspeção
+
+検査基準を守ります。
+けんさきじゅん を まもります。
+Sigo os critérios de inspeção。
+
+
+異常なし
+いじょうなし
+Sem anormalidade
+
+異常なしを確認しました。
+いじょうなし を かくにん しました。
+Confirmei que não há problemas。
