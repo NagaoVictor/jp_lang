@@ -264,3 +264,196 @@
 | fora de lugar | mechakucha da | めちゃくちゃだ | なにが起こったの？まったくめちゃくちゃだ。 | 何が起こったの？全っくめちゃくちゃだ。(O que aconteceu aqui? Está tudo fora de lugar) |
 | fora de ordem | barabara ni naru | ばらばらになる | ファイルがばらばらになっている。 | ファイルがばらばらになっている。(Os arquivos estão fora de ordem) |
 | fora do alcance | te ga todokanai | 手が届かない | きみのゆめも手が届かないわけじゃない。 | 君の夢も手が届かない訳じゃない。(Seu sonho não está fora do alcance) |
+| fora isso | sono hoka niwa | その他には | そのほかにはなにももんだいない？ | その他には何も問題ない？ (Fora isso não tem mais problemas?) |
+| forçar a barra | muri o suru | 無理をする | もちろんかのうだろうけど、いっすんむりをしすぎているとおもう。 | もちろん、可能だろうけど、一寸、無理をし過ぎていると思う。(Acho que até poderia ser mas você está forçando a barra um pouco) |
+| frente a frente | men to mukau | 面と向かう | かのじょとめんとむかったほうがいい。 | 彼女と面と向かった方がいい。(Prefiro estar frente a frente com ela) |
+| futuramente | shoorai | 将来 | しょうらい、もんだいはすくなると思う。 | 将来、問題は少なくなるとと思う。(Futuramente vamos ter menos problemas) |
+| graças a Deus | okagesama de | お陰さまで | おかげさまで、くじょうがなくなった。 | お陰さまで、苦情が無くなった。(Não teve mais reclamações, graças a Deus) |
+| grande parte de | daibubun | 大部分 | こくみんのだいぶぶんはそのことをしろうともしない。 | 国民の大部分はその事を知ろうともしない。(Grande parte da população não quer nem saber) |
+| haja o que houver | donna koto ga attemo | どんな事があっても | どんなことがあっても、きみといっしょだ。 | どんな事があっても、君と一緒だ。(Haja o que houver eu estou aqui para você) |
+| idas e vindas | dehairi | 出入り | かれはしごとばにでいりするひとたちのことをしっている。 | 彼は仕事場に出入りする人達の事を知っている。(Ele está sabendo das idas e vindas das pessoas no trabalho) |
+| independentemente de | kankeinaku | 関係なく | かのじょのこくせきにかんけいなく、かのじょがすきだ。 | 彼女の国籍に関係なく、彼女が好きだ。(Eu gosto dela independentemente da sua nacionalidade) |
+| infelizmente | zannen nagara | 残念ながら | まだおわっていないのに、ざんねんながらじかんがきた。 | まだ終わっていないのに、残念ながら時間が来た。(Quase terminei... infelizmente o tempo acabou) |
+| interessar-se por | kyoomi o motsu | 興味を持つ | かれらはかがくにとてもきょうみをもつようになった。 | 彼らは科学にとても興味を持つ様になった。(Eles se interessaram muito pela ciência) |
+| ir atrás de | otte iku | 追って行く | かのじょは行ってしまったが、わたしはおっていかなかった。 | 彼女は行ってしまったが、私は追って行かなかった。(Ela foi embora e eu não fui atrás dela) |
+| ir embora | iku | 行く | もういかなければ。 | もう行かなければ。(Eu vou ter que ir embora) |
+| isso | soo deshoo | そうでしょう | あなたはじょあんさん？＞そうでしよう。 | あなたはジョアンさん？＞そうでしょう。(Você é o João? > Isso.) |
+| isso mesmo | sono toori | その通り | まったくそのとおり、かれはなにもしない。 | 全くその通り、彼は何もしない。(Isto mesmo, ele não faz nada) |
+| isto é | sunawachi | 即ち | すなわち、かれはいままでけっこしたくなかったのだ。 | 即ち、彼は今まで結婚したくなかったのだ。(Isto é, he nunca quis casar até agora) |
+| já era | oshimai / moo sunda koto | お仕舞い / もう済んだ事 | あめがふりはじめれば、おしまいだ。 | 雨が降り始めれば、お仕舞いだ。(Quando começar a chover já era) |
+| já ouvi falar | kiita koto ga aru | 聞いたことがある | そこへいったことないが、きいたことがある。 | そこへ行った事はないが、聞いたことがある。(Não conheço o lugar mas já ouvi falar) |
+| já que | de areba | であれば | だいどころへいくのであれば、わいんをもってきてくれる？ | 台所へ行くのであれば、ワインを持って来てくれる？ (Já que está indo para a cozinha, você traz o vinho?) |
+| já volto | sugu modoru | 直ぐ戻る | といれへいくので、すぐもどります。 | トイレへ行くので、直ぐ戻ります。(Já volto, vou ao banheiro) |
+| jogar fora | suteru | 捨てる | すててしまう。 | 捨ててしまう。(Vou jogar fora) |
+| juízo | majime ni suru | 真面目にする | まじめにしなさい、わかった？ | 真面目にしなさい、分かった？(Juízo, hein?) |
+| jura? | hontoo? | 本当？ | ほんとう？かれはかないの？ | 本当？彼は行かないの？(Jura? Ele não vai?) |
+| juro por Deus | kami ni chikau | 神に誓う | かみにちかって、なにもぬすんでいない。 | 神に誓って、何も盗んでいない。(Juro por Deus, eu não roubei nada) |
+| lá fora | achira wa | あちらでは | あちらはあまりあんぜんではない。 | あちらは余り安全ではない。(Lá fora não há tanta segurança) |
+| levar a sério | majime ni | 真面目に | かれはまじめにべんきょうしている。 | 彼は真面目に勉強している。(Ele está leveraging seus estudos muito a sério) |
+| lidar com | taisho suru | 対処する | すとれすにはどうたいしょしていいかわからない。 | ストレスにはどう対処していいか分からない。(Não sei lidar com stress) |
+| logo de cara | ya inaya sugu ni | や否や すぐに | わたしがはいるやいなやすぐにしつもんしてきた。 | 私が入るや否や直ぐに質問して来た。(Entrei e logo de cara começaram a fazer perguntas) |
+| logo depois | sugu ato | 直ぐ後 | ゆうしょくのすぐあと、だんすに行った。 | 夕食の直ぐ後、ダンスに行った。(Saímos para dançar logo depois de jantar) |
+| longe de ser | dokoro ka | どころか | ゆうこうてきどころか、わたしとはなしさえしなかった。 | 友好得的どころか、私と話しさえしなかった。(Longe de serem simpáticos...) |
+| me diz uma coisa | chotto oshiete | 一寸教えて | しかし、ちょっとおしえてよ、どうしてかれはそのことをしったの？ | しかし、一寸教えてよ、どうして彼はその事を知ったの？ |
+| me poupe | warui kedo | 悪いけど | 悪いけど、かれはぽるとがるごがわからないんでしょう。 | 悪いけど！、彼はポルトガル語が分からないんでしょう。 |
+| menos mal | maamaa da | まあまあだ | そう、まあまあだ。 | そう、まあまあだ。(Bom, menos mal) |
+| mentira! | usotsuki | 嘘つき | うそつき！あなたははんぶんかっただけじゃない！ | 嘘つき！あなたは半分払っただけじゃない！ |
+| mesmo assim | soredemo | それでも | それでも、あのいえのほうがいいとおもう。 | それでも、あの家の方がいいと思う。 |
+| mexer com | karakau / toriatsukau | からかう / 取り扱う | わたしをからかわないで / かれはこんぴゅーたーをとりあつかう。 | 私をからわないで / 彼はコンピューターを取り扱う。 |
+| mudar de ideia | ki ga kawaru | 気が変わる | さいしょおーすとらりあではっこうしようとおもったが、あとで、きがかわった。 | 最初オーストラリアで勉強しようと思ったが、後で、気が変わった。 |
+| na boa | yorokonde | 喜んで | よろこんで、わたしがするよ。 | 喜んで、私がするよ。(Eu faria na boa) |
+| na época | sono koro wa | その頃は | いまじゃおかしいけど、そのころは、たいへんだった。 | 今じゃおかしいけど、その頃は、大変だった。 |
+| na faixa de | zengo | 前後 | かのじょはつきに5000ぜんごもらっている。 | 彼女 je 5,000前後貰っている。 |
+| na hora | sugu ni | 直ぐに | すぐにする。 | 直ぐにする。(Eles fazem na hora) |
+| na ida | tochuu de | 途中で | とちゅうでわいんをかいましょう。 | 途中でワインを買いましょう。(Na ida compramos o vinho) |
+| na medida em que | ni kagire ba | に限れば | えごをつかうことにきぎれば、だれもりゅうちょうにはなすものはいない。 | 英語を使うことに限れば、誰も流暢に話す者はいない。 |
+| na prática | jissai niwa | 実際には | りろんてきにはすばらしいが、じっさいにはうまくいかないだろう。 | 理論的には素晴らしいが、実際には上手く行かないだろう。 |
+| na verdade | hontoo wa | 本当は | ほんとうは、かれはこんぴゅーたーのつかいかたをしらない。 | 本当は、彼はコンピューターの使い方を知らない。 |
+| na volta | kaeri michi ni | 帰り道に | かえりみちにかのじょにでんわしよう。 | 帰り道に彼女に電話しよう。(Vou ligar para ela na volta) |
+| nada a ver | mattaku kankei nai | 全く関係ない | まったくかんけいない。 | 全く関係ない。(Não, nada a ver) |
+| nada como | …na mono wa nai | …なものはない | あたたかいわいんほどいいものはない。 | 暖かいワインほどいい物はない。(Nada como um vinho quente) |
+| não adianta | shikata ga nai | 仕方がない | かれとはなしてもしかたがない、どうせきょひするでしょう。 | 彼と話しても仕方がない、どうせ拒否するでしょう。 |
+| não aguentar | gaman dekinai | 我慢出来ない | このさむさにはがまんできない。 | この寒さには我慢出来ない。 |
+| não contar | keisan ni irenai | 計算に入れない | さいしょののみものはけいさんにいれない。 | 最初の飲み物は計算に入れない。 |
+| não dar bola | me mo kurenai | 目もくれない | かれにめもくれない。 | 彼に目もくれない。 |
+| não dar conta | juubun dewa nai | 充分ではない | よにんではじゅうぶんではない。 | 四人では充分ではない。 |
+| não é bem assim | sonna fuu dewa nai | そんな風ではない | かれはかんたんだとおもっているが、そんなふうではないんだ。 | 彼は簡単だと思っているが、そんな風ではないんだ。 |
+| não estou nem aí | kamawanai | 構わない | かのじょはわたしとはなしたくないらしいが、わたしはかまわない。 | 彼女は私と話したくないらしいが、私は構わない。 |
+| não faz mal | mondai nai | 問題ない | いまげんきんをもっていないが、もんだいないよ。 | 今現金を持っていないが、問題ないよ。 |
+| não faz nenhuma diferença | chigai ga nai | 違いがない | へやをぺいんとしないよ、べつに、ちがいがないから。 | 部屋をペイントしないよ、別に、違いがないから。 |
+| não foi nada | taishita koto dewa nai | 大したことではない | べつに、かんしゃしてくれなくてもいいよ。 | 別に、感謝してくれなくてもいいよ、大したことではないから。 |
+| não há dúvida de que | utagau yochi ga nai | 疑う余地がない | かれがかのじょをあいしていることはうたがうよちがない。 | 彼が彼女を愛していることは疑う余地がない。 |
+| não há nada melhor que... | …hodo iimono wa nai | …ほどいい物はない | しごとのあとのおびーるほどいいものはない。 | 仕事の後のビールほどいい物はない。 |
+| não há nada pior que... | …hodo iyana mono wa nai | …ほどいやな物はない | ぜいきんをはらうことほどいやなものはない。 | 税金を払うことほどいやな物はない。 |
+| não importa se | mondai nai | 問題ない | どいつごがはなせなくても、もんだいない。 | ドイツ語が話せなくても、問題ない。 |
+| não ligar | meiwaku dewa nai | 迷惑ではない | かのじょはたばこをすうけど、わたしにはめいわくではない。 | 彼女はタバコをすうけど、私には迷惑ではない。 |
+| não me leve a mal | gokai shinai de | 誤解しないで | ごかいしないで、あなたにはちゃいろはにあわないとおもう。 | 誤解しないで、あなたには茶色は似合わないと思う。 |
+| não parar de | tsuzukeru | 続ける | かのじょのことをおもいつづけている。 | 彼女の事を想い続けている。 |
+| não quero nem pensar | kangaetaku mo nai | 考えたくもない | そのもんだいはふくざつだ、かんがえたくもない。 | その問題は複雑だ、考えたくもない。 |
+| não se toca | kanjite inai | 感じていない | かのじょはかれのことがすきじゃないけど、かれはそれをかんじていない。 | 彼女は彼のことが好きじゃないけど、彼はそれを感じていない。 |
+| não sei o que deu em mim | kanchigai suru | 勘違いする | もうしわけない、なにかかんちがいをしたようだ。 | 申し訳ない、何か勘違いをしたようだ。 |
+| não suportar | gaman naranai | 我慢ならない | てくのおんがくはがまんならない。 | テクノ音楽は我慢ならない。 |
+| não tem jeito | shikata ga nai | 仕方がない | かれはこないよ、しかたがない。 | 彼は来ないよ、仕方がない。 |
+| não tem nada a ver | nan no kankei mo nai | 何の関係もない | わたしはりこんしているが、それはなんのかんけいもない。 | 私は離婚しているが、それは何の関係もない。 |
+| não vai dar | umaku ikanai | 上手く行かない | それはうまくいかないとおもう。 | それは上手く行かないと思う。 |
+| não vejo a graça | nanimo okashikunai | 何も可笑しくない | かれらはわらっていたが、なにもおかしくないとおもう。 | 彼らは笑っていたが、何も可笑しくないと思う。 |
+| não ver a hora | machi dooshii | 待ち遠しい | かのじょとまたあえるのがまちどおしい。 | 彼女とまた会えるのが待ち遠しい。 |
+| naquela época | ano jidai niwa | あの時代には | あのじだいにはこんぴゅーたーがなかった。 | あの時代にはコンピューターがなかった。 |
+| nem me fale | kikitaku mo nai | 聞きたくもない | だいえっとなんてきらいだ＞ききたくもない。 | ダイエットなんて嫌いだ ＞ 聞きたくもない。 |
+| nem pensar | ki mo nai | 気もない | かれにでんわするきもない。 | 彼に電話する気もない。 |
+| nem um pouco | mattaku … nai | 全く… ない | かれはそれがまったくすきじゃない。 | 彼はそれが全く好きじゃない。 |
+| nesse caso | soo iu riyuu nara | そう言う理由なら | そういうりゆうなら、らいしゅうあいましょうか？ | そう言う理由なら、来週会いましょうか？ |
+| no ato | sono ba de | その場で | かれらはそのばであなたにおかねをあげた。 | 彼らはその場であなたにお金を上げた。 |
+| no começo | saisho wa | 最初は | さいしょはかのじょがすきじゃなかった。 | 最初は彼女が好きじゃなかった。 |
+| no entanto | shikashi nagara | しかしながら | しかしながら、いぎりすじんはしゅうかんがちがう。 | しかしながら、イギリス人は習慣が違う。 |
+| no fim | saigo niwa | 最後には | さいごには、すべてうまくいった。 | 最後には、全て上手く行った。 |
+| no fim das contas | kekkyoku wa | 結局は | けっきょくはゆるしたほうがいい。 | 結局は許した方がいい。 |
+| no fundo | kokoro no soko dewa | 心の底では | こころのそこではかれはかのじょのことがすきじゃない。 | 心の底では彼は彼女のことが好きじゃない。 |
+| no início | saisho wa | 最初は | さいしょはむずかしかった。 | 最初は難しかった。 |
+| no meio de | no kachuu ni iru | の渦中にいる | かれはすべてのことがらのくちゅうにいる。 | 彼はすべての事柄の渦中にいる。 |
+| no pior dos casos | saiaku no baai | 最悪の場合 | さいあくのばいあい、ほかのがつこうへいけばいい。 | 最悪の場合、他の学校へ行けばいい。 |
+| no sentido que | to iu imi dewa | と言う意味では | かれらがそのあいであがきにいったといういみではせいこうだった。 | 彼らがそのアイデアが気に入ったと言う意味では成功だった。 |
+| nos mais dia menos dia | osokare hayakare | 遅かれ早かれ | おそかれはやかれかのじょはこうかいするだろう。 | 遅かれ早かれ彼女は後悔するだろう。 |
+| nossa! | waaa! | わあー！ | わあー！さむい！ | わあー！寒い！ |
+| nota-se | tashikani | 確かに | たしかにかれはぶらじるじんだ。 | 確かに彼はブラジル人だ。 |
+| numa boa | ochitsuite iru | 落ち着いている | いまかれはおちついている。 | 今彼は落ち着いている。 |
+| o dobro de | ni bai | 二倍 | かのじょはかれのにはいかせいできいる。 | 彼女は彼の二倍稼いでいる。 |
+| o grosso | oomakana tokoro | 大まかな所 | おおまかなところはすでにわかっている。 | 大まかな所は既に終わっている。 |
+| o que conta é | taisetsuna koto wa | 大切な事は | たいせつなことはあなたがどうかんじるかだ。 | 大切な事はあなたがどう感じるかだ。 |
+| o tempo todo | zuuto | ずーと | かれはずーともんくいっていた。 | 彼はずーと文句を言っていた。 |
+| olha só | nan to maa | 何とまあ | なんとまあ、きょうみぶかいこと。 | 何とまあ、興味深いこと。 |
+| ou seja | to iu koto wa | と言うことは | かれはくるまをもっていない、ということはわれわれといっしょに来ないことだ。 | 彼は車を持っていない、と言うことは我々と一緒に来ないことだ。 |
+| para falar a verdade | jitsu o ieba | 実を言えば | じつをいえば、まだいったことがない。 | 実を言えば、まだ行った事がない。 |
+| parece que | no yoo da | の様だ | かのじょはいかなかったようだ。 | 彼女は行かなかった様だ。 |
+| passar fome | ueru jootai ni naru | 飢える状態になる | うえるじょうたいになったことはない。 | 飢える状態になったことはない。 |
+| passar pela cabeça de alguém | atama o yogiru | 頭を過ぎる | そのことがあたまをすぎったけど、しなかった。 | その事が頭を過ぎったけど、しなかった。 |
+| pedir demissão | yameru | 辞める | もし、しょうきゅうがないなら、わたしはやめます。 | もし、昇給がないなら、私は辞めます。 |
+| pedir desculpas | ayamaru | 謝る | たにんにあやまるのはむずかしい。 | 他人に謝るのは難しい。 |
+| pedir emprestado | kariru | 借りる | かれはわたしからそれをかりたが、けっしてかえしてくれない。 | 彼は私からそれを借りたが、決して返してくれない。 |
+| pegar leve | yukkuri ki o tsukete | ゆっくり気を付けて | ゆっくりきをつけて、たいいんしたばかりでしょう。 | ゆっくり気を付けて、退院したばかりでしょう。 |
+| pegar no pé de alguém | ato ni tsuite kuru | 後に付いてくる | いつもわたしたちのあとについてくる。 | いつも私の後に付いて来る。 |
+| pelo amor de Deus! | Onegai dakara! | お願いだから！ | おねがいだから！でんきをけして。 | お願いだから！電気を消して。 |
+| pelo bem de | no tame ni | のために | かれのためにそれをした。 | 彼のためにそれをした。 |
+| pelo contrário | hantai ni | 反対に | かれはもんくいうどころか、はんたいによろこんでくれた。 | 彼は文句を言うどころか、反対に喜んでくれた。 |
+| pelo fato de | jissai ni | 実際に | じっさいにけいけんしゃというこもで、やとわれた。 | 実際に経験者と言うことで、雇われた。 |
+| pelo jeito | miru kara ni | 見るからに | みるからにかれらはおかねがなさそうだ。 | 見るからに彼らはお金がなさそうだ。 |
+| pelo menos | sukunakutomo | 少なくとも | おかねはないけど、すくなくとも、たべものはある。 | お金はないけど、少なくとも、食べ物はある。 |
+| perder o controle | jisei o ushinau | 自省を失う | かれはよっぱらってじせいをとった。 | 彼は酔っ払って自省を失った。 |
+| pisar na bola | hema o suru | へまをする | かれらはへまをして、けいやくがだめになった。 | 彼らはへまをして、契約が駄目になった。 |
+| pode deixar | makasete | 任せて | まかせてください、きょうのごごにはできています。 | 任せて下さい、今日の午後には出来ています。 |
+| pode ser | yoroshii yoo ni / onegai shimasu | よろしい様に / お願いします | もういっぱいどうですか？＞おねがいします。 | もう一杯どうですか？＞お願いします。 |
+| pois é | soreja / sono toori | それじゃ / その通り | それじゃ、それはあしたにしよう？ | それじゃ、それは明日にしよう？ |
+| pois nan | kashikomari mashita / irasshaimase | かしこまりました / いらっしゃいませ | かしこまりました、かえりしだいすぐおでんわさしあげます。 | かしこまりました、帰り次第直ぐお電話差し上げます。 |
+| por algum acaso | hyotto shite | ひょっとして | ひょっとして、わたしたちのカギみなかった? | ひょっとして、私のカギみなかった？ |
+| por algum motivo | wake atte | 訳あって | わけあってかれはだいがくへいかなかった。 | 訳あって彼は大学へ行かなかった。 |
+| por causa de | no tame ni | のために | あめのためにがいしゅつしなかった。 | 雨のために外出しなかった。 |
+| por coincidência | guuzen nimo | 偶然にも | ぐうぜんにもかれもさるばどるしゅっしんだ。 | 偶然にも彼もサルバドル出身だ。 |
+| por engano | machigaete | 間違えて | かれらにまちがえておかねをあげてしまった。 | 彼らに間違えてお金を上げてしまった。 |
+| por enquanto | ima no tokoro | 今の所 | いまのところそれだけ。 | 今の所それだけ。 |
+| por exemplo | tatoeba | 例えば | たとえば、かのじょはいたりありょうりがすきだ。 | 例えば、彼女はイタリア料理が好きだ。 |
+| por falar en | to ieba | と言えば | しょくじといえば、ゆうしょくにしませんか？ | 食事と言えば、夕食にしませんか？ |
+| por isso | dakara | だだから | だから、わたしはくれじっとかーどはつかわない。 | だだから、私はクレジットカードは使わない。 |
+| por mais que | ikura … temo | いくら…ても | いくらがんばっても、うまくいかないでしょう。 | いくら頑張っても、上手く行かないでしょう。 |
+| por meio de | tsukatte | 使って | かれらはみぶりをつかってはなしている。 | 彼らは身振りを使って話している。 |
+| por mim | watashi ni kanshite wa | 私に関しては | わたしにかんしてはだいじょうぶです。 | 私に関しては大丈夫です。 |
+| por nada | betsuni nanimo nai | 別に何もない | どうしてでんわしたの？＞いいえ、べつになにもないけど。 | どうして電話したの？＞いいえ、別に何もないけど。 |
+| por outro lado | ippoo | 一方 | いっぽう、くるまでいくほうがやすあがりだ。 | 一方、車で行く方がやす上がりだ。 |
+| por sinal | tokorode | ところで | ところで、どうるせ、私の恋人なんだが、彼女も一緒に旅行する。 | ところで、ドウールセ、私の恋人なんだが、彼女も一緒に旅行する。 |
+| por sua vez | ippoo | 一方 | かのじょはりょうりができない、いっぽう、かれはりょうりを教えている。 | 彼女は料理が出来ない、一方、彼は料理を教えている。 |
+| por trás de | no ura ni | の裏に | あのしつもんのうらにに何があるか分かっている。 | あの質問の裏に何があるか分かっている。 |
+| quando você quiser | tsugoo no ii toki | 都合のいい toki | いつでもつごうのいいときにでんわください。 | いつでも都合のいい時に電話下さい。 |
+| quantas vezes quiser | nando demo | 何度でも | なんでもためしてみるといい。 | 何度でも試して見るといい。 |
+| quanto antes | dekiru dake hayaku | 出来るだけ早く | できるだけはやくいしいたい。 | 出来るだけ早く終わりたい。 |
+| quanto antes melhor | hayakereba hayai hoo ga ii | 早ければ、早い方がいい | おわるのがはやければ、はやいほどいいとおもう。 | 終わるのが早ければ、早いほどいいと思う。 |
+| quanto mais | areba aruhodo | あればあるほど | あればあるほど、まだほしい。 | あればあるほど、まだ欲しい。 |
+| quanto menos | sukunakereba sukunai hodo | 少なければ、少ないほど | にもつはすくなければ、すくなほどいい。 | 荷物は少なければ、少ないほどいい。 |
+| quanto você quiser | nozomu hodo | 望むほど | あなたがのぞむほどたべてもけっこうです。 | あなたが望むほど食べても結構です。 |
+| quantos você quiser | hoshii dake | 欲しいだけ | あなたがほしいだけ、おはなをとってもけっこうです。 | あなたが欲しいだけ、お花を取っても結構です。 |
+| que barato! | kakkoo ii! | 格好いい！ | かれのかみをみて、かっこいい。 | 彼の髪を見て、格好いい！ |
+| que bom que | ureshii | 嬉しい | あなたがきてくれてうれしい。 | あなたが来てくれて嬉しい。 |
+| que chato! | omoshirokunai! / iyani naru! | 面白くない / 嫌になる | へんしゅうかいぎ？ああ、おもしろくない！ | 編集会議？ああ、面白くない！ |
+| queimar o filme | dainashi ni suru | 台無しにする | かのじょDeんわばんごうをもらうところだったのに、えどわるどがだいなしにした。 | 彼女の電話番号を貰う所だったのに、エドワルドが台無しにした。 |
+| quem você quiser | daretodemo | 誰とでも | かのじょはだれとでもこいをする。 | 彼女は誰とでも恋をする。 |
+| relação a | ni kanshite | に関して | そのもんだいにかんしててがみをかいた。 | その問題に関して手紙を書いた。 |
+| a respeito de | ni kanshite wa | に関しては | おかねにかんしては、はんぶんだけおさめることができる。 | お金に関しては、半分だけ納める事が出来る。 |
+| sai dessa! | Te o hike! | 手を引け！ | そんなあぶないしごとから、てをひけ！ | そんな危ない仕事から、手を引け！ |
+| sair de mansinho | sotto nukedeta | そっと抜け出る | ぱーてぃーがおもしろくなかったので、そっとぬけた。 | パーティが面白くなかったので、そっと抜け出た。 |
+| sair voando | tobi dasu | 飛び出す | こわくなったので、とびだした。 | 怖くなったので、飛び出した。 |
+| sair-se bem | umaku iku | 上手く行く | かれのこうえんとうまくいったとう思う。 | 彼の講演は上手く行ったと思う。 |
+| salvo | o nozoite | を除いて | あのもんだいをといて、たはすべてかいけつした。 | あの問題を除いて、他は全て解決した。 |
+| são seus olhos | soo itte kurete ureshii | そう言ってくれて嬉しい | きれいなもんですね！＞そういってくれてうれしいです。 | 綺麗な髪ですね！＞そう言ってくれて嬉しいです。 |
+| se Deus quiser | kami ni megumi ga areba / kanarazu | 神の恵みがあれば / 必ず | かならず、うまくいく。 | 必ず、上手く行く。 |
+| se por acaso | moshi … tara | もし、…たら | もし、かれがとおりがかったら、すこしおくれるとつたえてください。 | もし、彼が通りがかったら、少し遅れると伝えて下さい。 |
+| se preferir | moshi nozomu nara | もし、望むなら | もし、あなたがのぞむなら、あしたにしてもいいです。 | もし、あなたが望むなら、明日にしてもいいです。 |
+| se quiser | yokattara | よかったら | よかったら、えどぅーとよんでくれてもけっこうです。 | よかったら、エドゥーと呼んでくれても結構です。 |
+| segundo | ni yoreba | によれば | かれがきのういったことによれば、きょうはあめになるそうだ。 | 彼が昨日言った事によれば、今日は雨になるそうだ。 |
+| sei lá | yoku wakaranai | 良く分からない | かのじょかすきじゃないんだ、よくわからないけど。 | 彼女が好きじゃないんだ、良く分からないけど。 |
+| seja quem for | donna hito to ie domo | どんな人と言えども | どんなひとといえども、だれひとりいれないように。 | どんな人と言えども、誰一人入れないように。 |
+| sem comentários | nantomo ienai | 何とも言えない | わたしのどれすきにいった？＞なんともいえないね。 | 私のドレス気に入った？＞何とも言えないね。 |
+| sem contar que | iu mademo naku | 言うまでもなく | かれらにはうんざりだ、いうまでもなく、ゆーもらのもいつもない。 | 彼らにはうんざりだ、言うまでもなく、ユーモアのセンスもない。 |
+| sem dúvida | kitto | きっと | かれはきっとくる。 | 彼はきっと来る。 |
+| sem estresse | stress* no nai | ストレスのない | すとれすのないしゅうまつをすごしたいものだ。 | ストレスのない週末を過ごしたいものだ。 |
+| sem exceção | reigai naku | 例外なく | だれひとりれいがいなくあのしょーがきにいった。 | 誰ひとり例外なくあのショーが気に入った。 |
+| sem problema | mondai naku | 問題なく | もんだいなく、このしごとはおわらせます。 | 問題なく、この仕事は終わらせます。 |
+| sem-vergonha | haji shirazu | 恥知らず | かれははじしらずだ。 | 彼は恥知らずだ。 |
+| sempre que | itsumo | いつも | あそこに行くときは、いつも、ははもついてきた。 | あそこに行くときは、いつも、母もついて来た。 |
+| sentir culpado | sekinin o kanjiru | 責任を感じる | いまはわたしもせきにんをかんじている。 | 今は私も責任を感じている。 |
+| ser mandado embora | kubi ni naru | 首にする / 首になる | けっきんしたためにくびになった。 | 欠勤したために首になった。 |
+| ser visto como | no yoo ni mirareta | の様に見られた | あたかもてきのようみみられた。 | あたかも敵の様に見られた。 |
+| será que | daroo ka? | だろうか？ | あめがふるだろうか？ | 雨が降るだろうか？ |
+| seria interessante | omoshiroi kamo shirenai | 面白いかも知れない | わからないけど、ひょっとしたら、それもおもしろいかもしれない。 | 分からないけど、ひょっとしたら、それも面白いかも知れない。(Não sei, acho que de repente seria interessante ver isso) |
+| serve | tsukaeru | 使える | けいたいでんわもっていないけど、ぽけべるつかえる？ | 携帯電話持ってないけど、ポケベル使える？ (Não tenho celular... um pager serve?) |
+| sinceramente | shoojiki ni itte | 正直に言って | しょうじきにいって、それで問題ないとおもう。 | 正直に言って、それで問題ないと思う。(Eu sinceramente acho que não vai dar problema) |
+| sinto muito | mooshi wake nai ga | 申し訳ないが | もうしわけないが、もうなにもあげられない。 | 申し訳ないが、もう何も上げられない。(Sinto muito mas não posso dar mais nada) |
+| sob controle | seijoo da | 正常だ | すべてせいじょうだ。 | 全て正常だ。(Está tudo sob controle) |
+| sob medida | atsurae | あつらえて | かれらはこんぴゅーたーをあつらえてつくった。 | 彼らはコンピューターをあつらえて作った。(Fazem computadores sob medida) |
+| sob suspeita de | utagawarete iru | 疑われている | かれはどろぼうしたとうたがわれている。 | 彼はドロボーストしたと疑われている。(Ele está sob suspeita de roubar) |
+| sobretudo (que) | tokuni … kara | 特に…から | きょうはがいしゅつしない、とくに、あしたあのしけんがあるから。 | 今日は外出しない、特に、明日あの試験があるから。(Não vou sair hoje, sobretudo que amanhã tenho aquele exame) |
+| supostamente | suisoku suru ni | 推測するに | すいそくするに、かれはきょうがそのひだということをしらなかったようだ。 | 推測するに、彼は今日がその日だと言う事を知らなかった様だ。(Ele supostamente não sabia que era hoje) |
+| tá bom? | OK? | オッケイ？ | あとで、でんわするよ、おっけい？ | 後で、電話するよ、オッケイ？(Eu te ligo depois, tá bom?) |
+| tá legal? | ii daroo? | いいだろう？ | いきたくないきぶんだ、いいだろ？ | 行きたくない気分だ、いいだろ？(Não estou a fim de ir, tá legal?) |
+| tá vendo? | wakatta? | 分かった？ | かれがどんなにんげんかわかったでしょう？ | 彼がどんな人間か分かったでしょう？(Tá vendo como ele é?) |
+| tal como | tatoeba | 例えば | わたしはうんどうをよくする、たとえば、はしったり、およいだり。 | 私は運動をよくする、例えば、走ったり、泳いだり。(Eu faço muitas atividades físicas, tais como correr e nadar) |
+| tanto faz | kamawanai | 構わない | かれがとどまるかいってしもうか、どちらでもかまわない。 | 彼が留まるか行ってしまうか、どちらでも構わない。(Tanto faz se ele fica ou vai embora) |
+| ter certeza | tashika da | 確かだ | たしかですか？ | 確かですか？(Tem certeza?) |
+| ter certeza que | tashikananda | 確かなんだ | かいごうでかれをみたのはたしかなんだが。 | 会合で彼を見たのは確かなんだが。(Eu tenho certeza que eu o vi no congresso) |
